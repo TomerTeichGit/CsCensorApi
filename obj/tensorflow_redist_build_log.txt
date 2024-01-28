@@ -1,0 +1,3 @@
+Found primary file at /home/teich/.nuget/packages/scisharp.tensorflow.redist-linux-gpu-primary/2.11.1/runtimes/linux-x64/native/libtensorflow_framework.so.2
+Found primary file at /home/teich/.nuget/packages/scisharp.tensorflow.redist-linux-gpu-primary/2.11.1/runtimes/linux-x64/native/libtensorflow.so.sha
+Found primary file at /home/teich/.nuget/packages/scisharp.tensorflow.redist-linux-gpu-primary/2.11.1/runtimes/linux-x64/native/libtensorflow.so
