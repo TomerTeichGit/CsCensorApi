@@ -10,7 +10,7 @@
   POST /Censorship
 ```
 
-| form-data | Type     | Description                |
+| form-data key | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `"file"` | `Image` | **Required**.  |
 
@@ -31,7 +31,7 @@
   POST /Censorship
 ```
 
-| form-data | Type     | Description                |
+| form-data key | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `"file"` | `Video` | **Required**.  |
 
