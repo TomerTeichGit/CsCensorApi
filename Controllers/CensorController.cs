@@ -13,7 +13,10 @@ public class CensorshipController : ControllerBase
     public string outDir = Path.Combine(Directory.GetCurrentDirectory(), "outDir");
     public CensorshipController()
     {
-
+        if (!Directory.Exists(outDir))
+        {
+            Directory.CreateDirectory(outDir);
+        }
     }
     static void EmptyDirectory(string directoryPath)
     {
