@@ -7,7 +7,7 @@
 ### send a Image and recive JSON output
 
 ```http
-  POST /Censorship
+  POST /
 ```
 
 | form-data key | Type     | Description                |
@@ -28,7 +28,7 @@
 ### send a Video and recive JSON output
 
 ```http
-  POST /Censorship
+  POST /
 ```
 
 | form-data key | Type     | Description                |
