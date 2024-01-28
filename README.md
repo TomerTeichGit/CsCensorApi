@@ -2,7 +2,7 @@
 # CsCensorAPI
 
 
-## Run Locally
+## Run Locally - Linux
 
 Clone the project
 
