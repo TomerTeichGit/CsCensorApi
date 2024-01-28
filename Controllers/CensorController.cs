@@ -6,7 +6,7 @@ using System.Diagnostics;
 
 namespace CsCensorApi.Controllers;
 [ApiController]
-[Route("[controller]")]
+[Route("")]
 public class CensorshipController : ControllerBase
 {
     public NsfwSpy spy = new();
