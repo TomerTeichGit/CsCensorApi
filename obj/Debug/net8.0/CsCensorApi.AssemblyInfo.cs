@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsCensorApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f9cfd8f5d0ba3c4e7837b029b23d3b33fd44e07")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsCensorApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsCensorApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

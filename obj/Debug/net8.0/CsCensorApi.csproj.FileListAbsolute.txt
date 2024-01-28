@@ -81,3 +81,4 @@
 /home/teich/CsCensorApi/bin/Debug/net8.0/runtimes/win-x64/native/tensorflow.dll
 /home/teich/CsCensorApi/bin/Debug/net8.0/runtimes/osx-x64/native/libtensorflow.dylib
 /home/teich/CsCensorApi/bin/Debug/net8.0/runtimes/osx-x64/native/libtensorflow_framework.2.dylib
+/home/teich/CsCensorApi/obj/Debug/net8.0/CsCensorApi.sourcelink.json
