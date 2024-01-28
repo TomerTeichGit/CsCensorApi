@@ -2,6 +2,33 @@
 # CsCensorAPI
 
 
+## Run Locally
+
+Clone the project
+
+```bash
+git clone https://github.com/TomerTeichGit/CsCensorApi.git
+```
+
+Go to the project directory
+
+```bash
+cd CsCensorApi
+```
+Install dependencies
+
+```bash
+dotnet add package NsfwSpy 
+sudo apt install ffmpeg
+```
+
+Start the server
+
+```bash
+dotnet run --launch-profile http
+```
+
+
 ## API Reference
 
 ### send a Image and recive JSON output
@@ -73,31 +100,13 @@
 ]
 ```
 
-## Run Locally
-
-Clone the project
-
-```bash
-git clone https://github.com/TomerTeichGit/CsCensorApi.git
+## Swagger
+```
+Swagger is available on *:*/swagger/index.html
 ```
 
-Go to the project directory
 
-```bash
-cd CsCensorApi
-```
-Install dependencies
 
-```bash
-dotnet add package NsfwSpy 
-sudo apt install ffmpeg
-```
-
-Start the server
-
-```bash
-dotnet run --launch-profile http
-```
 ## Notes
 * The controller uses the NSFW Spy library for image and video classification.
 * Images are classified individually, while videos are first split into frames before classification.
