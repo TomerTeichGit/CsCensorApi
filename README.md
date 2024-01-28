@@ -78,7 +78,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/TomerTeichGit/CsCensorApi.git
+git clone https://github.com/TomerTeichGit/CsCensorApi.git
 ```
 
 Go to the project directory
