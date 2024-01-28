@@ -84,19 +84,19 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd CsCensorApi
+cd CsCensorApi
 ```
 Install dependencies
 
 ```bash
-  dotnet add package NsfwSpy 
-  sudo apt install ffmpeg
+dotnet add package NsfwSpy 
+sudo apt install ffmpeg
 ```
 
 Start the server
 
 ```bash
-  dotnet run --launch-profile http
+dotnet run --launch-profile http
 ```
 ## Notes
 * The controller uses the NSFW Spy library for image and video classification.
